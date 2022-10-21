@@ -7,7 +7,14 @@ Hoy hablaremos de su historia
 Es un hijo de Dios
 
 
+<<<<<<< HEAD
 MASTER 1
 
 
 EXPERIMENTO 1
+=======
+EXPERIMENTO 1
+
+
+EXPERIMENTO 2
+>>>>>>> b89ad8d (Experimento 2)
