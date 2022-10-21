@@ -1,0 +1,5 @@
+#Archivos de MAC
+.DS_Store
+
+#Claves y Contraseñas
+*.env
